@@ -8,6 +8,10 @@
 <p>Una de ellas es acceder a la página deployeada a través del siguiente link: <a href="https://tp-react-2cpg64o0o-leandro-lopezs-projects.vercel.app"> Página deployeada</a></p>
 <p>La otra opción es descargar el proyecto, posicionarse en la carpeta descargada y usar la consola para iniciar el proyecto</p>
 <p>Primero se instalan las dependencias del proyecto a través del siguiente comando:</p>
-`` npm install ``
+```
+bash npm install
+```
 <p>Luego se inicia la página con el siguiente comando:</p>
-`` npm run dev ``
+```bash
+npm run dev
+```
